@@ -80,6 +80,9 @@ exclude_patterns = ['_build']
 # output. They are ignored by default.
 #show_authors = False
 
+# The default highlight language of pygments.
+highlight_language = 'html+php'
+
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
 
