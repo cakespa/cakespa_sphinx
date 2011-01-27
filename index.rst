@@ -50,6 +50,6 @@ CakePHP温泉部への貢献
 このドキュメントは `github <http://github.com/>`_ で管理されています。
 このページに追加のTipsを加えたい、あるいは修正したい方は以下のリポジトリをフォークして下さい。
 
-* `cakespa_org <https://github.com/cakespa/cakespa_sphinx>`_
+* `cakespa_sphinx <https://github.com/cakespa/cakespa_sphinx>`_
 
 ドキュメントの書き方やビルドの方法は、リポジトリのREADMEに含まれています。
