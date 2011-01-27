@@ -98,6 +98,14 @@ div.sphinxsidebar h3, div.sphinxsidebar h4 {
     background-color: #AFC1C4;
 }
 
+div.sphinxsidebar div.twtr-widget {
+    margin-top: 1em;
+}
+
+div.sphinxsidebar div.twtr-widget h3, div.sphinxsidebar div.twtr-widget h4 {
+    border: none;
+}
+
 div.sphinxsidebar h3 a {
     color: white;
 }
