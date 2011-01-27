@@ -47,9 +47,9 @@ CakePHPの情報共有は建前で、 *温泉に入って日頃の疲れを癒�
 CakePHP温泉部への貢献
 =====================
 
-このドキュメントは `github <http://github.com>`_ で管理されています。
+このドキュメントは `github <http://github.com/>`_ で管理されています。
 このページに追加のTipsを加えたい、あるいは修正したい方は以下のリポジトリをフォークして下さい。
 
-* `cakespa_org <http://github.com>`_
+* `cakespa_org <https://github.com/cakespa/cakespa_sphinx>`_
 
 ドキュメントの書き方やビルドの方法は、リポジトリのREADMEに含まれています。
