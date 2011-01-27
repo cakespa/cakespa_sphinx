@@ -35,12 +35,10 @@ CakePHPの情報共有は建前で、 *温泉に入って日頃の疲れを癒�
 ============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :glob:
 
-   server
-   development
-   test
-   plugin
+   documents/*
 
 
 
