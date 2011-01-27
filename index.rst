@@ -11,7 +11,7 @@
 最新情報
 ========
 
-   * 第二回CakePHP温泉部が2011年2月26～27日に熱海で開催されます
+* 第二回CakePHP温泉部が2011年2月26～27日に熱海で開催されます
 
 
 CakePHP温泉部とは
@@ -25,10 +25,10 @@ CakePHPのイベントはほとんどがカンファレンススタイル・あ�
 
 現在毎年1回のペースで開催されており、今回は第2回として熱海で実施される予定です。
 
-   * サイト `http://www.cakespa.org/ <http://www.cakespa.org/>`_ (このサイト)
-   * 連絡先 info [at] cakespa.org
-   * Twitterアカウント `@cakespa <http://twitter.com/cakespa>`_
-   * Twitterハッシュタグ `#cakespa <https://twitter.com/search?q=%23cakespa>`_
+* サイト `http://www.cakespa.org/ <http://www.cakespa.org/>`_ (このサイト)
+* 連絡先 info [at] cakespa.org
+* Twitterアカウント `@cakespa <http://twitter.com/cakespa>`_
+* Twitterハッシュタグ `#cakespa <https://twitter.com/search?q=%23cakespa>`_
 
 
 .. note::
