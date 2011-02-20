@@ -57,15 +57,15 @@ reStructuredTextを使用します。
 CentOS/FedoraにSphinxをインストールする
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-# yum install python-setuptools
-# easy_install -U Sphinx
+#. yum install python-setuptools
+#. easy_install -U Sphinx
 
 
 UbuntuにSphinxをインストールする
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-# apt-get install -y python-setuptools
-# easy_install -U Sphinx
+#. apt-get install -y python-setuptools
+#. easy_install -U Sphinx
 
 
 WindowsにSphinxをインストールする
@@ -77,7 +77,7 @@ WindowsにSphinxをインストールする
 MacOSにSphinxをインストールする
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-# Xcodeをインストールする ( `Download Xcode <http://developer.apple.com/technologies/xcode.html>`_ )
-# curl -O http://peak.telecommunity.com/dist/ez_setup.py
-# sudo python ez_setup.py
-# sudo easy_install sphinx
+#. Xcodeをインストールする ( `Download Xcode <http://developer.apple.com/technologies/xcode.html>`_ )
+#. curl -O http://peak.telecommunity.com/dist/ez_setup.py
+#. sudo python ez_setup.py
+#. sudo easy_install sphinx
