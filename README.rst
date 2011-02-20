@@ -52,3 +52,32 @@ reStructuredTextを使用します。
 インストール後は下記のコマンドで、ビルド出来ます。
 
 | make html
+
+
+CentOS/FedoraにSphinxをインストールする
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+# yum install python-setuptools
+# easy_install -U Sphinx
+
+
+UbuntuにSphinxをインストールする
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+# apt-get install -y python-setuptools
+# easy_install -U Sphinx
+
+
+WindowsにSphinxをインストールする
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* `Windowsへのインストール <http://sphinx-users.jp/gettingstarted/install_windows.html#install-easy-install>`_
+
+
+MacOSにSphinxをインストールする
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+# Xcodeをインストールする ( `Download Xcode <http://developer.apple.com/technologies/xcode.html>`_ )
+# curl -O http://peak.telecommunity.com/dist/ez_setup.py
+# sudo python ez_setup.py
+# sudo easy_install sphinx
