@@ -72,3 +72,15 @@ CakePHP温泉部への貢献
 * `cakespa_sphinx <https://github.com/cakespa/cakespa_sphinx>`_
 
 ドキュメントの書き方やビルドの方法は、リポジトリのREADMEに含まれています。
+
+.. note::
+   **Forkしたリポジトリを最新にする方法**
+
+   Forkしたリポジトリは、修正を加える前に元リポジトリの最新コミットをpullしてからにしましょう。
+   
+      | 【リモートリポジトリを登録しておく(１回のみ実行)】
+      | git remote add -f cakespa git://github.com/cakespa/cakespa_sphinx.git
+      | 【フォークしたリポジトリを最新版にする】
+      | git pull cakespa master
+      | git push origin master
+
