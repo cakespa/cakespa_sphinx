@@ -1,8 +1,6 @@
 
-Database translations
-データベースへの翻訳
-
-============
+Database translations / データベースへの翻訳
+=========================================
 
 :author: 芳谷エベルトン
 :created: 2011-02-26
