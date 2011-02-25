@@ -41,6 +41,14 @@ CakePHPのイベントはほとんどがカンファレンススタイル・あ�
 * Twitterアカウント `@cakespa <http://twitter.com/cakespa>`_
 * Twitterハッシュタグ `#cakespa <https://twitter.com/search?q=%23cakespa>`_
 
+過去の温泉部開催履歴
+--------------------
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+
+   histories/*
 
 .. note::
    **CakePHPとは？**
