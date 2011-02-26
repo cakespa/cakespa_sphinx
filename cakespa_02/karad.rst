@@ -1,5 +1,5 @@
 
-CakePHPのbake系ベストプラクティスについて
+kara_dによるCakePHPのベストプラクティス
 ========
 
 :author: karad
@@ -9,12 +9,12 @@ CakePHPのbake系ベストプラクティスについて
 
 内容
 
-・ER図とかどうしてますか？
-→MySQL Workbench & CakePHP Plugin
-・bakeテンプレートどうしてます？
-→Fluid 960 Grid
-・ある程度進んだ段階でbakeしたくなったときはどうしてる？
-→既にある程度書かれているControllerとかModelとか
-・開発のエディタは何を使ってますか？
-→NetBeansとCoda
+* ER図とかどうしてますか？
+    * MySQL Workbench & CakePHP Plugin
+* bakeテンプレートどうしてます？
+    * Fluid 960 Grid
+* ある程度進んだ段階でbakeしたくなったときはどうしてる？
+    * 既にある程度書かれているControllerとかModelとか
+* 開発のエディタは何を使ってますか？
+    * NetBeansとCoda
 
