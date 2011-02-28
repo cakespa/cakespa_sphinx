@@ -25,6 +25,16 @@ CakePHPベストプラクティス
    cakespa_02/*
 
 
+(未解決のベストプラクティス)
+-------------------------------
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+
+   cakespa_02/unsolved/*
+
+
 CakePHP温泉部とは
 =================
 
